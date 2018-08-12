@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-11_1838",
-    "currentPage": "gallery.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -755,7 +755,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Evènementiel",
+                "title": "Evénementiel",
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "",
