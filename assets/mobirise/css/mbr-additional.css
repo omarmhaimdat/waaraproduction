@@ -6697,6 +6697,19 @@ body {
     width: 100% !important;
   }
 }
+.cid-r6RfErBWqW {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #151515;
+}
+.cid-r6RfErBWqW .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-r6RfErBWqW .video-block {
+    width: 100% !important;
+  }
+}
 .cid-r6ppqfqZc4 {
   padding-top: 0px;
   padding-bottom: 0px;
