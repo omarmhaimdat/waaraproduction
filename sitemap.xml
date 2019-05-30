@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://waaraproduction.net/index.html</loc>
-	</url>
-	<url>
 		<loc>https://waaraproduction.net/about.html</loc>
 	</url>
 	<url>
@@ -28,5 +25,11 @@
 	</url>
 	<url>
 		<loc>https://waaraproduction.net/magic_system.html</loc>
+	</url>
+	<url>
+		<loc>https://waaraproduction.net/accueil.html</loc>
+	</url>
+	<url>
+		<loc>https://waaraproduction.net/index.html</loc>
 	</url>
 </urlset>
